@@ -1,0 +1,24 @@
+.header{
+    background: url("../Img/bg.jpg")center/cover;
+    height: 100vh;
+}
+.header{
+    text-align: center;
+}
+.header h1{
+    font-size: 72px;
+    line-height: 32px;
+    color: #ffffff;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 15%;
+}
+.header p{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 32px;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 30px;
+}

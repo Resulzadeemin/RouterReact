@@ -1,0 +1,27 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-evenly;
+    padding-top:50px ;
+}
+.navbar a{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+.navbar h2{
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}
+.ico {
+    color: #fff;
+    font-size: 30px;
+}
+#eminnn{
+
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+}

@@ -1,0 +1,12 @@
+.fotos{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#fafafa ;
+    padding-bottom: 5%;
+}
+.fotos img{
+    width: 400px;
+}
+.h1,.h2{
+    background-color:crimson ;
+}

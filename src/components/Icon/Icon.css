@@ -1,0 +1,26 @@
+.icon{
+	display:flex;
+	width:50%;
+	margin:0 auto;
+	justify-content:space-around;
+	flex-wrap:wrap;
+}
+.dollar{
+    text-align: center;
+    padding-top:7% ;
+}
+.dollar h3{
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dollar span{
+    color: crimson;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.end p{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 17px;
+}
+
