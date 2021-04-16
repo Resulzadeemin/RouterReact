@@ -5,7 +5,7 @@ export default function Contact() {
         <div className="contact">
             <div className="con">
                 <h1>CONTACT</h1>
-                <p>Contact me +3232 45 4545 53</p>
+                <p>Contact me </p>
             </div>
             <div className="input">
                 <input type="text" placeholder="write something" />
